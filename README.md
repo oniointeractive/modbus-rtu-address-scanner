@@ -7,16 +7,15 @@ This application lets you quickly find which slave addresses respond, read test 
 
 ## 🚀 Quick Start
 
-1. Go to the [Releases](../../releases) page.
-2. Download the latest **`Modbus RTU Address Scanner.exe`**.
-3. Run it – **no Python installation required**.
-4. Select:
+1. Download the **`Modbus RTU Address Scanner.exe`**.
+2. Run it – **no Python installation required**.
+3. Select:
    - **COM port** of your USB–RS485 adapter  
    - **Baud rate** (e.g. 9600)  
    - **Parity / Stop bits** (usually N,1)  
    - **Timeout** (e.g. 0.3 s)  
-5. Choose an address range (e.g. 1–247) and a test register (try 0, 1, or 100).  
-6. Click **Scan** – responding devices will appear in the results table.
+4. Choose an address range (e.g. 1–247) and a test register (try 0, 1, or 100).  
+5. Click **Scan** – responding devices will appear in the results table.
 
 ---
 
